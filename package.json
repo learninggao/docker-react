@@ -1,5 +1,5 @@
 {
-  "name": "@jsnotetheta/local-client",
+  "name": "local-client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -56,8 +56,8 @@
     "normalize.css": "^8.0.1",
     "prettier": "^2.3.0",
     "qs": "^6.10.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
     "react-hot-loader": "^4.13.0",
     "react-icons": "^4.2.0",
     "react-router": "^5.2.0",
