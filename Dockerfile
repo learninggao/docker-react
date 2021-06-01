@@ -8,6 +8,6 @@ RUN npm run build
 
 
 FROM nginx
-# this is for elastic beanstalk, locally it does nothing
+# this is for elastic beanstalk, locally it does nothings
 EXPOSE 80 
 COPY --from=builder /home/app/build /usr/share/nginx/html
